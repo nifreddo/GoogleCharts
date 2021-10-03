@@ -7,4 +7,4 @@ https://rawcdn.githack.com/nifreddo/GoogleCharts/3cc7650a470a4d64c12207add7da908
 
 https://rawcdn.githack.com/nifreddo/GoogleCharts/6e9e40c180c49a7c619d545e310ef6ff72f18a28/LineChart/GoogleSheet.htm
 
-https://rawcdn.githack.com/nifreddo/GoogleCharts/blob/85b9f505b20679e8e632494c1b6701476804537c/LineChart/LineChart.htm
+https://rawcdn.githack.com/nifreddo/GoogleCharts/85b9f505b20679e8e632494c1b6701476804537c/LineChart/LineChart.htm
